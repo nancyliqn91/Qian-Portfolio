@@ -17,7 +17,7 @@
 
 ## 🏵️ How to use this App
 
-* View my portfolio [live]() here!
+* View my portfolio [live](https://nancyliqn91.github.io/Qian-Portfolio/) here!
 
 ## 🏵️ Setup/Installation Requirements
 
@@ -27,7 +27,7 @@
 
 ## 🌻Web Screenshot
 ### Web
-![Screenshot of web](assets/img/web.png)
+![Screenshot of web](src/assets/img/web.png)
 
 ## 🌷 Known Bugs
 
